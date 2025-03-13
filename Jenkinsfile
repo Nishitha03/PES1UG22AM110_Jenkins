@@ -16,7 +16,7 @@ pipeline {
             steps {
                 echo 'Running the compiled program...'
                 sh '''
-                    ./PES1UG22AM110-1
+                    ./PES1UG22AM110-2
                 '''
             }
         }
